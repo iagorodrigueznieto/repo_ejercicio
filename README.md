@@ -1,2 +1,2 @@
 # repo_ejercicio
-Repositorio para ejercicio
+Repositorio para ejercicio actualizado
